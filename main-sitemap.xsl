@@ -9,6 +9,7 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
+<meta name="facebook-domain-verification" content="b49hzozw8ctfid4oak4v4zzwcgh7kq" />
 				<xsl:choose>
 					<xsl:when test="kml:kml">
 						<title>Locations Sitemap - Indonesia Yanwoo</title>
